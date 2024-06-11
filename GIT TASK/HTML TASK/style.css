@@ -1,0 +1,23 @@
+td {
+    border: black 1px solid
+}
+
+#cell-facebook{
+    color: rgb(245, 19, 19);
+}
+
+.section-underscore{
+    text-decoration: underline;
+}
+
+.border-all{
+    border: 1px solid blueviolet;
+    border-width: 0.1em 1px 1px thin;
+    border-style: dotted;
+    background-color: rgb(232, 220, 234);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    font-style: italic;
+    font-size: medium;
+    padding: 14px 5px 14px 5px;
+}
